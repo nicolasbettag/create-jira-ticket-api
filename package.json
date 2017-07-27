@@ -1,7 +1,7 @@
 {
   "name": "create-jira-ticket-api",
-  "version": "1.0.0",
-  "description": "‍",
+  "version": "1.0.1",
+  "description": "create jira issue tickets - using the REST API 2 - within node‍",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",

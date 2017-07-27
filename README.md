@@ -1,5 +1,5 @@
 # create-jira-ticket-api
-create jira issue tickets - using the REST API 2
+create jira issue tickets - using the REST API 2 - within node
 
 
 ## Installing
@@ -7,10 +7,10 @@ create jira issue tickets - using the REST API 2
 Using npm:
 
 ```bash
-$ npm install -g create-jira-ticket-api
+$ npm install create-jira-ticket-api --save
 ```
-```bash
-$ var jira = require('create-jira-ticket-api');
+```
+var jira = require('create-jira-ticket-api');
 ```
 
 
