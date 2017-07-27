@@ -1,0 +1,18 @@
+{
+  "name": "create-jira-ticket-api",
+  "version": "1.0.0",
+  "description": "‍",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasbettag/create-jira-ticket-api.git"
+  },
+  "author": "Nicolas Bettag <hello@nicolasbettag.com> (https://nicolasbettag.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolasbettag/create-jira-ticket-api/issues"
+  },
+  "dependencies": {
+	  "requestify": "^0.2.5"
+  }
+}
